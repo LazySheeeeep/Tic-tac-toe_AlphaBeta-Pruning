@@ -22,7 +22,7 @@ This Python script provides an implementation of the Tic-Tac-Toe game, incorpora
 
 ### How to Use
 
-To play the game, run the script. You will be prompted to input the coordinates of your move. The AI player will then make its move based on the current game state and the minimax algorithm with alpha-beta pruning, ensuring efficient decision-making. The game ends when one player wins or if the game results in a draw.
+To play the game, run the script. You will be prompted to input the coordinates of your move. The AI player will then make its move based on the current game state and the minimax algorithm with alpha-beta pruning, ensuring efficient decision-making, which means that **AI player will never lose**. The game ends when one player wins or if the game results in a draw.
 
 Feel free to modify and use this code for educational purposes or as a foundation for building your own Tic-Tac-Toe game with alpha-beta pruning.
 
